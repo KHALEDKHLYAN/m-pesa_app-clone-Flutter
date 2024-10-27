@@ -107,3 +107,7 @@ Add the following dependencies to your `pubspec.yaml` file as needed:
 This project is currently under development. Contributions are welcome to enhance the functionalities, improve UI/UX, or integrate additional features.
 
 This `README.md` provides an overview of your M-Pesa clone project, the current progress, and instructions for setting up the project. Update the content as you add more features! Let me know if you need help with any specific part.
+
+## ScreenSHot
+![WhatsApp Image 2024-10-27 at 09 45 54_dd2ec5fd](https://github.com/user-attachments/assets/377a8047-0880-420d-a9b4-39753f20ae61)
+
